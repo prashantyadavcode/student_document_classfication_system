@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+pytesseract
+pdf2image
+pillow
+openpyxl
+joblib
